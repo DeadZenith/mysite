@@ -1,0 +1,24 @@
+body {
+   background: #000000;
+/*   background: rgb (0,0,255); */
+  color: #ffffff;
+
+}
+h1 {
+  color: #ffffff;
+  font-size: 30 px;
+  font-family: Sans;
+}
+img{
+  width: 50%;
+  height: 100%;
+  float
+}
+.der{
+  color: #89F7C8;
+  display: inline-block;
+/*   float: left; */
+}
+.waffle{
+  
+}
